@@ -1,0 +1,9 @@
+TERIMA KASIH UNTUK :
+https://tailwindcss.com/
+https://heroicons.com/
+https://humaan.com/modaal/
+https://jquery.com/
+https://gist.github.com/davidolesch/9961095#file-jquery-formatcurrency-1-4-0-js
+https://notifyjs.jpillora.com/
+https://atomiks.github.io/tippyjs/v6/getting-started/
+https://popper.js.org/
