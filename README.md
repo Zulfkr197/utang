@@ -3,13 +3,13 @@ Tools sederhana untuk pencatatan utang.
 Menggunakan PHP, Mysql dan Jquery (Ajax).
 
 # Persiapan
-Silahkan untuk mengunduh XAMPP atau sejenisnya, dan menginstallnya di pc anda.
+Silahkan untuk mengunduh **XAMPP atau sejenisnya**, dan menginstallnya di pc anda.
 
 # Cara Pengunaan
-Dengan membaca cara pengunaan, saya anggap anda sudah menginstall xampp di pc anda.
-1. Download Filenya.
-2. Taruh File kedalam xampp\htdocs kemudian extract filesnya
-3. Buka URL http://localhost/utang/ di Browser kesayangan anda.
+Dengan membaca cara pengunaan, saya anggap anda sudah menginstall **Xampp** di pc anda.
+1. Download Filenya disini https://github.com/Zulfkr197/utang/releases.
+2. Taruh File kedalam <mark>xampp\htdocs</mark> kemudian extract filesnya
+3. Buka URL <mark>http://localhost/utang/</mark> di Browser kesayangan anda.
 
 Untuk pertama kali memasang dan membuka web, silahkan reload kembali. karena fungsi tools akan membuat database dan tabel otomatis apabila database tidak terdaftar di phpmyadmin. 
 
