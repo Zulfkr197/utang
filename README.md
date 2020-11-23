@@ -1,3 +1,5 @@
+![Pencatat Utang][screenshot.png]
+
 # Tools Pencatat Utang Offline
 Tools sederhana untuk pencatatan utang.
 Menggunakan PHP, Mysql dan Jquery (Ajax).
