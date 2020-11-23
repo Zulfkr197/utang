@@ -24,5 +24,10 @@ Untuk pertama kali memasang dan membuka web, silahkan reload kembali. karena fun
 3. Muncul Popup, klik **Create**
 4. Sekarang lihat didesktop, akan muncul shortcutnya.
 
+# Pengaturan Database
+1. Masuk ke dalam folder asset
+2. Edit connects.php
+3. Isi host, user, password, dan database. (apabila ingin mengantinya atau memasang di hosting)
+
 Saya merekomendasikan menggunakan Browser Microsoft Edge versi terbaru, ada fitur Apps yang bisa lebih ringan untuk membuka aplikasi shortcutnya.
 **Shortcut diatas juga berlaku untuk di Device HP.**
