@@ -1,4 +1,4 @@
-![Pencatat Utang][screenshot.png]
+![Pencatat Utang](screenshot.png)
 
 # Tools Pencatat Utang Offline
 Tools sederhana untuk pencatatan utang.
