@@ -110,7 +110,7 @@
 					</div><!-- end filter -->					
 					<div class="fltr_hari block md:inline-block relative mb-4 w-full md:w-40 mr-0 md:mr-3">
 						<select class="block appearance-none w-full bg-white px-6 py-4 pr-6 rounded border border-gray-300 shadow-sm leading-tight focus:outline-none focus:shadow-outline" data-tippy-content='Tanggal'>
-							<option value="">Filter Hari</option>
+							<option value="">Semuanya</option>
 							<?php
 								for($d=1; $d<=date('t'); $d++){
 									echo "<option value='$d'>$d</option>";
@@ -123,7 +123,7 @@
 					</div><!-- end hari -->
 					<div class="fltr_bulan block md:inline-block relative mb-4 w-full md:w-40 mr-0 md:mr-3">
 						<select class="block appearance-none w-full bg-white px-6 py-4 pr-6 rounded border border-gray-300 shadow-sm leading-tight focus:outline-none focus:shadow-outline" data-tippy-content='Bulan'>
-						<option value="">Filter Bulan</option>
+						<option value="">Semuanya</option>
 							<?php
 								$bulan = [ 1 => 'Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember' ];
 								for ($i=1; $i<=12; $i++){
@@ -161,7 +161,7 @@
 
 			</div>
 
-			<div class="footer text-base text-gray-400">
+			<div class="footer text-base text-gray-400 mb-6">
 				<p>Dibuat oleh zulfkr. Asset oleh  <a class='text-blue-500 hover:text-blue-800' href='https://tailwindcss.com/'>Tailwinds</a>, <a class='text-blue-500 hover:text-blue-800' href='https://heroicons.com/'>Heroicons</a> </p>
 			</div>
 

@@ -1,0 +1,8 @@
+v1.0
+- Rilis
+
+v1.1
+- Delete Tombol Lunas di Tab Lunas
+- Fix Text "Filter Hari" dan "Filter Bulan" menjadi "Semuanya"
+- Added Status Lunas di Kolom Sisa (Apabila Sisa = 0)
+- Added Fitur Pengingat Utang diatas 14 Hari (Berwarna Merah Tebal)
